@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development, Artificial Inteligence and Data Science. 
 - 🌱 I’m currently learning algorithms of Machine Learning, Numeric Methods and English.
 - 💞️ I’m looking to collaborate on AI projects.
-- 📫 You can reach me by email: octavio595@outlook.com / j.octavio.ibs@gmail.com / octavio5545@ciencias.unam.mx ...
+- 📫 You can reach me by email: octavio595@outlook.com / octavio5545@ciencias.unam.mx ...
 
 <!---
 octavio5545/octavio5545 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
